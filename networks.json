@@ -369,5 +369,24 @@
       "name": "Wrapped ETH",
       "symbol": "WETH"
     }
+  },
+  "8453": {
+    "name": "Base Mainnet",
+    "rpc": "https://mainnet.base.org",
+    "chainId": 8453,
+    "explorer": "https://basescan.org",
+    "color": "#155BFD",
+    "multicall": "0xEF65BF9e225A4B606aa5C46f944De35f566e58e4",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    }
   }
 }
+
